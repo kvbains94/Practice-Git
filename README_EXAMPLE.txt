@@ -7,3 +7,5 @@ Initial change to commit
 Second commit
 
 This is the third commit
+
+Fourth
